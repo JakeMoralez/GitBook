@@ -2,29 +2,34 @@
 
 * [Добро пожаловать](README.md)
 
-## Основные команды
+## Основные команды <a href="#main-command" id="main-command"></a>
 
-* [Профиль и информация](osnovnye-komandy/profil-i-informaciya.md)
-* [Обратная связь](osnovnye-komandy/obratnaya-svyaz.md)
-* [Значки](osnovnye-komandy/znachki.md)
+* [Профиль и информация](main-command/profiel.md)
+* [Обратная связь](main-command/feedback.md)
+* [Значки](main-command/badges.md)
 
-## Модули
+## Модули <a href="#modules" id="modules"></a>
 
-* [Приветствия и прощания](moduli/privetstviya-i-proshaniya.md)
-* [Управление ролями](moduli/upravlenie-rolyami.md)
-* [Тикеты](moduli/tikety.md)
-* [Верификация](moduli/verifikaciya.md)
-* [Идеи](moduli/idei.md)
-* [Модерация](moduli/moderaciya.md)
-* [Уведомления](moduli/uvedomleniya.md)
-* [Автомодерация](moduli/avtomoderaciya.md)
-* [Логирование](moduli/logirovanie.md)
-* [Дни рождения](moduli/dni-rozhdeniya.md)
-* [Приватные комнаты](moduli/privatnye-komnaty.md)
-* [Браки](moduli/braki.md)
-* [Role Play](moduli/role-play.md)
-* [Лайки](moduli/laiki.md)
-* [Развлечения](moduli/razvlecheniya.md)
+* [Приветствия и прощания](modules/greetings-goodbyes.md)
+* [Управление ролями](modules/roles.md)
+* [Тикеты](modules/tickets.md)
+* [Верификация](modules/verification.md)
+* [Идеи](modules/ideas.md)
+* [Модерация](modules/moderation.md)
+* [Уведомления](modules/notifications.md)
+* [Автомодерация](modules/automoderation.md)
+* [Логирование](modules/logging.md)
+* [Дни рождения](modules/birthdays.md)
+* [Приватные комнаты](modules/private-rooms.md)
+* [Браки](modules/marriages.md)
+* [Role Play](modules/role-play.md)
+* [Лайки](modules/likes.md)
+* [Развлечения](modules/fun.md)
+
+## Правовая информация <a href="#legal" id="legal"></a>
+
+* [Условия использования](legal/terms-of-service.md)
+* [Политика конфиденциальности](legal/privacy-policy.md)
 
 ***
 
