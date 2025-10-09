@@ -4,6 +4,20 @@ description: >-
   присоединяется к серверу или покидает его. Это позволяет тепло встретить
   новичков и быть в курсе, когда кто-то уходит.
 icon: hand-wave
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Приветствия и прощания

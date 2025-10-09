@@ -2,6 +2,7 @@
 description: >-
   Все ключевые функции защиты и управления доступны каждому без ограничений и
   платных подписок.
+icon: house-chimney
 layout:
   width: wide
   title:
