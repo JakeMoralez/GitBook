@@ -4,7 +4,7 @@ description: >-
   платных подписок.
 icon: house-chimney
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:
