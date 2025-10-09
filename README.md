@@ -39,7 +39,11 @@ VLesnix Guard — это многофункциональный бот для Di
 
 {% columns %}
 {% column %}
-#### С чего начать?
+####
+{% endcolumn %}
+
+{% column %}
+### С чего начать?
 
 Готовы погрузиться? Вот несколько полезных ссылок, чтобы быстро освоиться.
 
@@ -49,23 +53,19 @@ VLesnix Guard — это многофункциональный бот для Di
 
 <a href="https://discord.com/oauth2/authorize?client_id=1336778419199021118" class="button primary" data-icon="plus">Пригласить бота</a>
 {% endcolumn %}
-
-{% column %}
-
-{% endcolumn %}
 {% endcolumns %}
 
 {% columns %}
 {% column %}
-
-{% endcolumn %}
-
-{% column %}
-#### Остались вопросы?
+### Остались вопросы?
 
 Нужна помощь или есть крутая идея? Наше сообщество всегда готово помочь. Присоединяйтесь к нашему серверу поддержки, чтобы быть в курсе всех обновлений и первыми узнавать о новых функциях.
 
 <a href="https://discord.gg/pzD2w4x5Hk" class="button secondary" data-icon="gear-complex">Сервер технической поддержки</a>
+{% endcolumn %}
+
+{% column %}
+####
 {% endcolumn %}
 {% endcolumns %}
 
