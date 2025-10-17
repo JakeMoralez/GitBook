@@ -17,6 +17,7 @@
 * [Верификация](modules/verification.md)
 * [Идеи](modules/ideas.md)
 * [Модерация](modules/moderation.md)
+* [Липкие сообщения](modules/lipkie-soobsheniya.md)
 * [Уведомления](modules/notifications.md)
 * [Автомодерация](modules/automoderation.md)
 * [Логирование](modules/logging.md)
