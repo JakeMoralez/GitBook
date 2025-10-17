@@ -7,6 +7,7 @@
 * [Профиль и информация](main-command/profiel.md)
 * [Обратная связь](main-command/feedback.md)
 * [Значки](main-command/badges.md)
+* [Кастомизация бота](main-command/kastomizaciya-bota.md)
 
 ## Модули <a href="#modules" id="modules"></a>
 
