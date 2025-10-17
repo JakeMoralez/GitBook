@@ -12,3 +12,4 @@ icon: gamepad-modern
 | `/emojify <text>`       | Преобразует ваш текст в большие буквы из эмодзи.      | `/emojify text:Привет`                                 |
 | `/ship <user1> [user2]` | Узнайте, насколько два человека совместимы.           | `/ship user1:@пользователь1 user2:@пользователь2`      |
 | `/rps <user_choice>`    | Сыграйте в "Камень, ножницы, бумага" против бота.     | `/rps user_choice:камень`                              |
+| `/ascii <text>`         | Превращает текст в красивый ASCII-арт.                | `/ascii text:VLesnix`                                  |
