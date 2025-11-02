@@ -16,6 +16,7 @@
 * [Тикеты](modules/tickets.md)
 * [Верификация](modules/verification.md)
 * [Идеи](modules/ideas.md)
+* [Контекстные жалобы](modules/kontekstnye-zhaloby.md)
 * [Модерация](modules/moderation.md)
 * [Липкие сообщения](modules/lipkie-soobsheniya.md)
 * [Уведомления](modules/notifications.md)
