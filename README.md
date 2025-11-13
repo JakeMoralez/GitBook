@@ -31,7 +31,7 @@ VLesnix Guard — это многофункциональный бот для Di
 {% endcolumn %}
 
 {% column %}
-<figure><img src=".gitbook/assets/efa8c0cc-b1f7-4e7c-8ef4-5c039c79b461.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/hi.png" alt="" width="563"><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
