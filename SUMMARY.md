@@ -28,6 +28,7 @@
 * [Role Play](modules/role-play.md)
 * [Лайки](modules/likes.md)
 * [Развлечения](modules/fun.md)
+* [Рейтинговая система](modules/reitingovaya-sistema.md)
 
 ## Правовая информация <a href="#legal" id="legal"></a>
 
